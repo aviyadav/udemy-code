@@ -24,8 +24,8 @@ simple/thread/demo/syncdemo/SyncDemoApp.java
  simple.thread.demo.syncdemo.SyncDemoApp
 simple/thread/demo/lockdemo/ObjLockDemo.java
  simple.thread.demo.lockdemo.ObjLockDemo
-simple/thread/demo/execdemo/ExecutorsExample.java
- simple.thread.demo.execdemo.ExecutorsExample
+simple/thread/demo/waitnotifydemo/Processor.java
+ simple.thread.demo.waitnotifydemo.Processor
 simple/thread/demo/latchdemo/LatchDemo.java
  simple.thread.demo.latchdemo.LatchDemo
  simple.thread.demo.latchdemo.Processor
@@ -61,5 +61,5 @@ simple/thread/demo/waitnotifydemo/WaitNotifyDemo.java
  simple.thread.demo.waitnotifydemo.WaitNotifyDemo
 simple/thread/demo/reentrantlock2/ReentrantLock2Demo.java
  simple.thread.demo.reentrantlock2.ReentrantLock2Demo
-simple/thread/demo/waitnotifydemo/Processor.java
- simple.thread.demo.waitnotifydemo.Processor
+simple/thread/demo/execdemo/ExecutorsExample.java
+ simple.thread.demo.execdemo.ExecutorsExample
